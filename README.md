@@ -25,10 +25,21 @@ Rooms are grouped into **2 Parts** to help you build foundational knowledge step
 5. [Network Services](https://tryhackme.com/room/networkservices)  
 6. [Network Services 2](https://tryhackme.com/room/networkservices2)
 
+---
+
+## 🌐 Part 3 – Deeper Web & Enterprise Concepts
+
+1. [HTTP in Detail](https://tryhackme.com/room/httpindetail)  
+2. [DNS in Detail](https://tryhackme.com/room/dnsindetail)  
+3. [How Websites Work](https://tryhackme.com/room/howwebsiteswork)  
+4. [Putting It All Together](https://tryhackme.com/room/puttingitalltogether)  
+5. [Active Directory Basics](https://tryhackme.com/room/winadbasics)
+
+---
 
 ## ✅ More Coming Soon...
 
-🔜 **Part 3** will include:
+🔜 **Part 4** will include:
  
 Follow for updates or DM for help getting started!
 
