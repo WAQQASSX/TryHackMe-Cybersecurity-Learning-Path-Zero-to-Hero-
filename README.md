@@ -1,7 +1,7 @@
-# 🔐 TryHackMe Cybersecurity Learning Path (Beginner Roadmap)
+# 🔐 TryHackMe Cybersecurity Learning Path (Zero to Hero)
 
 This is a beginner-friendly learning path to start your cybersecurity journey using **TryHackMe**.  
-Rooms are grouped into **3 Parts** to help you build foundational knowledge step by step.  
+Rooms are grouped into **2 Parts** to help you build foundational knowledge step by step.  
 ✅ All rooms are beginner-level and hands-on.
 
 ---
