@@ -9,16 +9,16 @@ Rooms are grouped into **2 Parts** to help you build foundational knowledge step
 ## 🧭 Part 1 – Introduction & Cyber Concepts
 
 1. [What is TryHackMe?](https://tryhackme.com) *(Start on the homepage)*  
-2. [Careers in Cyber Security](https://tryhackme.com/room/careersincybersecurity)  
-3. [Security Principles](https://tryhackme.com/room/securityawareness)  
-4. [Governance & Regulation](https://tryhackme.com/room/governanceandregulation)  
-5. [Cyber Kill Chain](https://tryhackme.com/room/cyberkillchain)
+2. [Careers in Cyber Security](https://tryhackme.com/room/careersincyber)  
+3. [Security Principles](https://tryhackme.com/room/securityprinciples)  
+4. [Governance & Regulation](https://tryhackme.com/room/cybergovernanceregulation)  
+5. [Cyber Kill Chain](https://tryhackme.com/room/cyberkillchainzmt)
 
 ---
 
 ## 🛠️ Part 2 – Fundamental Skills
 
-1. [Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentals1)  
+1. [Linux Fundamentals Part 1](https://tryhackme.com/module/linux-fundamentals)  
 2. [Python Basics](https://tryhackme.com/room/pythonbasics)  
 3. [Common Attacks](https://tryhackme.com/room/commonattacks)  
 4. [What is Networking?](https://tryhackme.com/room/whatisnetworking)  
